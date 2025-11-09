@@ -19,6 +19,11 @@ The following three files are used for reinforcement learning in Genesis.<br>
 3. eval.py (Evaluation/Test File)<br>
 : This is a script for evaluating the performance of a trained model.<br>
 <br>
+Please download the robot model file (URDF) from the repository below.<br>
+https://github.com/hir4484/inverted_pendulum_sim_in_Genesis<br>
+You'll find this model file in the pendulum_robot_renew folder.<br>
+<img src="./robot.png" width="400"><br>
+<br>
 To run training, use the following command:<br>
 ~$ python3 pend5_train.py<br>
 <br>
