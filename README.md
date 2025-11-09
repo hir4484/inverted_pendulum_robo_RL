@@ -38,4 +38,4 @@ To start TensorBoard:<br>
 ~$ tensorboard --logdir=./<br>
 <img src="./tensorboard_param10.png" width="800"><br>
 <br>
-Copyright (c) 2025/Nov/09, hir (hir4484@gmail.dom). Available under the MIT License.
+Copyright (c) 2025/Nov/09, hir (hir4484@gmail.com). Available under the MIT License.
