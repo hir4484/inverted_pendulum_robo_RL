@@ -1,4 +1,4 @@
-##Reinforcement learning file for a two-wheeled inverted pendulum running in the Genesis environment<br>
+## Reinforcement learning file for a two-wheeled inverted pendulum running in the Genesis environment<br>
 <br>
 This file is a repository of deep reinforcement learning training files explained in the YouTube video "Deep Reinforcement Learning and Model-Free Optimal Control in Genesis Simulator." It is intended for use with the "Genesis" physics platform.<br>
 <br>
