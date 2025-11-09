@@ -1,4 +1,4 @@
-Reinforcement learning file for a two-wheeled inverted pendulum running in the Genesis environment<br>
+##Reinforcement learning file for a two-wheeled inverted pendulum running in the Genesis environment<br>
 <br>
 This file is a repository of deep reinforcement learning training files explained in the YouTube video "Deep Reinforcement Learning and Model-Free Optimal Control in Genesis Simulator." It is intended for use with the "Genesis" physics platform.<br>
 <br>
@@ -13,11 +13,11 @@ About the file contents:<br>
 <br>
 The following three files are used for reinforcement learning in Genesis.<br>
 1. env.py (Environment Definition File)<br>
-Purpose: Defines the environment in which the reinforcement learning agent interacts.<br>
+: Defines the environment in which the reinforcement learning agent interacts.<br>
 2. train.py (Training Executable File)<br>
-Purpose: This is the main script that trains the agent using the reinforcement learning algorithm.<br>
+: This is the main script that trains the agent using the reinforcement learning algorithm.<br>
 3. eval.py (Evaluation/Test File)<br>
-Purpose: This is a script for evaluating the performance of a trained model.<br>
+: This is a script for evaluating the performance of a trained model.<br>
 <br>
 To run training, use the following command:<br>
 ~$ python3 pend5_train.py<br>
