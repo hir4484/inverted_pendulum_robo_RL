@@ -38,4 +38,12 @@ To start TensorBoard:<br>
 ~$ tensorboard --logdir=./<br>
 <img src="./tensorboard_param10.png" width="800"><br>
 <br>
+Ubuntu: 22.04 LTS<br>
+Python: 3.9.22<br>
+Genesis: 0.2.1<br>
+pyTorch: 2.7.0+cu118<br>
+rsl-rl: 1.0.2<br>
+TensorBoard: 2.19.0<br>
+NVIDIA GeForce GTX 1650<br>
+<br>
 Copyright (c) 2025/Nov/09, hir (hir4484@gmail.com). Available under the MIT License.
